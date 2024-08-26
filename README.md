@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dharanpostmail@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Y599m_IyHnobIWJcje8PeaRq5LBnSIj5/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
