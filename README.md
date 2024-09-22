@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js , Data Structure With Java**
 
-- 👨‍💻 All of my projects are available at [/dharan](/dharan)
+- 👨‍💻 All of my projects are available at [/dharan]()
 
 - 💬 Ask me about **Java**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [resume](resume)
 
-- ⚡ Photograph Website **https://dharan-sdc.github.io/DTGallery/**
+- ⚡ Photograph Website [/DTGallery](https://dharan-sdc.github.io/DTGallery/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
