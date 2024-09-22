@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **React Js , Data Structure With Java**
 
-- 👨‍💻 All of my projects are available at [/dharan](https://tinyurl.com/2csjfy3m))
+- 👨‍💻 All of my projects are available at [/dharan](https://tinyurl.com/2csjfy3m)) <- Visit the Portfolio Page
+- Photograph Portfolio page vist at https://dharan-sdc.github.io/DTGallery/
 
 - 💬 Ask me about **Java**
 
