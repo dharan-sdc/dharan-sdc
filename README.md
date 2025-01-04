@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharan-sdc&label=Profile%20views&color=0e75b6&style=flat" alt="dharan-sdc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharan-sdc" alt="dharan-sdc" /></a> </p>
-
 - 🔭 I’m currently working on **College Project**
 
 - 🌱 I’m currently learning **React Js , Data Structure With Java**
